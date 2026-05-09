@@ -15,7 +15,7 @@ My personal repository.
 
 - 📫 How to reach me **vaishvika.pawar@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1HaIZHgX-F774ntrz0gq3gey8VVBxEqx3KLWsivqzsf0/edit?usp=sharing](https://docs.google.com/document/d/1HaIZHgX-F774ntrz0gq3gey8VVBxEqx3KLWsivqzsf0/edit?usp=sharing)
+- 📄 Know about my experiences <a href="https://docs.google.com/document/d/1HaIZHgX-F774ntrz0gq3gey8VVBxEqx3KLWsivqzsf0/edit?usp=sharing"> here </a>
 
 - ⚡ Fun fact **I keep singing and listening to music whole day.**
 
