@@ -1,7 +1,3 @@
-# vaishvika
-My personal repository.
-
-
 <h1 align="center">Hi 👋, I'm Vaishvika</h1>
 <h3 align="center">Flutter Developer with 5 years of experience in designing, developing, and deploying scalable mobile applications. Skilled in building user-centric, high-performance apps using clean architecture and BLoC. Proven ability to deliver impactful features and collaborate across teams in fast-paced environments.</h3>
 
